@@ -19,6 +19,7 @@
   --line-height-small: 1.2;
   --line-height-base: 1.5;
   --line-height-big: 1.8;
+  --section-header-align: center;
 }
 
 html {
@@ -30,12 +31,13 @@ body {
   color: var(--text-color);
   font-family: var(--font-family-base);
   font-weight: var(--font-weight-regular);
-  line-height: var(--line-height-base);
   font-size: var(--body-font-size);
+  line-height: var(--line-height-base);
 }
 
 a {
   color: var(--text-color);
+  text-decoration: none;
 }
 
 .visually-hidden {
@@ -44,6 +46,10 @@ a {
 
 .card-category {
   color: var(--color-primary);
+}
+
+.section-header {
+  text-align: var(--section-header-align);
 }
 
 .section-tagline {

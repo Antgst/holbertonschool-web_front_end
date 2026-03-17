@@ -21,12 +21,14 @@
 
 html {
     scroll-behavior: smooth;
+    font-size: var(--html-font-size);
 }
 
 body {
     color: var(--text-color);
     font-family: var(--font-family-base);
     font-weight: var(--font-weight-regular);
+    font-size: var(--body-font-size);
 }
 
 a {
