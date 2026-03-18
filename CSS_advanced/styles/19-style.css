@@ -168,13 +168,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .section-tagline {
-  margin: var(--section-tagline-margin)
+  margin: var(--section-tagline-margin);
 }
 
-.ul .row {
+ul.row {
   margin: 0;
   padding: none;
-  list-style: var()
+  list-style: none;
 }
 
 .col-1-3 {
@@ -190,11 +190,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .footer-copyright {
-  margin: none;
+  margin: 0;
   font-size: var(--font-size-small);
   color: var(--text-color);
 }
 
-.ul .footer {
+footer.ul {
   text-align: right;
 }
