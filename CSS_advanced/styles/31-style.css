@@ -1,6 +1,13 @@
-/* Task 31 */
+/* 31-style.css */
 
-@import url(https://intranet.hbtn.io/rltoken/0UITCJASLDBEvDQdP_pwiw);
+/* 0️⃣ Universal box-sizing */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+@import url("https://necolas.github.io/normalize.css/8.0.1/normalize.css");
 
 :root {
   --color-primary: #d73953;
@@ -9,30 +16,38 @@
   --color-light-grey: #f3f3f3;
   --color-dark-grey: #353535;
   --text-color: var(--color-black);
-  --font-family-base: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  --font-family-title: Raleway, "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+  --font-family-base:
+    "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --font-family-title:
+    "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+
   --font-size-small: 1.2rem;
   --font-size-medium: 1.6rem;
   --font-size-large: 1.8rem;
   --font-size-x-large: 2.3rem;
   --font-size-xx-large: 4.8rem;
-  --html-font-size: 62.5%;
-  --body-font-size: var(--font-size-medium);
+
   --font-weight-regular: 400;
   --font-weight-bold: 700;
+
   --line-height-small: 1.2;
   --line-height-base: 1.5;
   --line-height-big: 1.8;
+
   --section-header-align: center;
   --section-tagline-transform: uppercase;
+  --section-tagline-margin: 0;
   --section-title-margin: 0;
   --section-title-color: var(--color-black);
+
   --section-padding: 5rem 0;
   --section-header-padding: 0 0 3rem;
   --section-body-padding: 0 0 3rem;
   --section-footer-padding: 3rem 0 0;
   --section-footer-align: center;
   --footer-padding: 5rem 0 1rem;
+
   --nav-item-font-family: var(--font-family-title);
   --nav-item-font-weight: var(--font-weight-bold);
   --nav-item-font-size: var(--font-size-medium);
@@ -40,7 +55,8 @@
   --nav-item-display: inline-block;
   --nav-item-margin: 0 0 3rem 0;
   --nav-item-link-hover: var(--color-white);
-  --section-tagline-margin: 0;
+
+  /* Variables pour le bouton */
   --button-display: inline-block;
   --button-padding: 1.5rem 3rem;
   --button-border: 0.2rem solid var(--color-primary);
@@ -50,6 +66,7 @@
   --button-hover-color: var(--color-white);
   --button-hover-text-decoration: none;
   --button-hover-background: var(--color-primary);
+
   --header-padding: 4rem 0 0;
   --header-logo-position: relative;
   --header-logo-link-display: inline-block;
@@ -58,39 +75,40 @@
   --header-logo-link-left: 0;
 }
 
-*,
-*::before,
-*::after {
-  box-sizing: border-box;
+/* Dark theme sections */
+[data-section-theme="dark"] {
+  --text-color: var(--color-white);
+  --section-title-color: var(--color-white);
+  background: var(--color-black);
 }
 
 html {
   scroll-behavior: smooth;
-  font-size: var(--html-font-size);
+  font-size: 62.5%;
 }
 
 body {
   color: var(--text-color);
   font-family: var(--font-family-base);
-  font-size: var(--body-font-size);
+  font-size: var(--font-size-medium);
   font-weight: var(--font-weight-regular);
   line-height: var(--line-height-base);
 }
 
-a[href] {
+a:link {
   color: var(--text-color);
   text-decoration: none;
 }
 
-a[href]:visited {
+a:visited {
   font-style: italic;
 }
 
-a[href]:hover {
+a:hover {
   text-decoration: underline;
 }
 
-a[href]:active {
+a:active {
   background-color: var(--color-light-grey);
 }
 
@@ -133,6 +151,7 @@ a[href]:active {
   font-family: var(--font-family-title);
   text-transform: var(--section-tagline-transform);
   font-weight: var(--font-weight-bold);
+  margin: var(--section-tagline-margin);
 }
 
 .container {
@@ -152,7 +171,17 @@ h6 {
 }
 
 .footer {
-  padding: var(--footer-padding)
+  padding: var(--footer-padding);
+}
+
+.footer ul {
+  text-align: right;
+}
+
+.footer-copyright {
+  margin: 0;
+  font-size: var(--font-size-small);
+  color: var(--text-color);
 }
 
 .navbar-menu {
@@ -177,12 +206,14 @@ h6 {
 
 .nav .nav-link {
   display: block;
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
-  padding-left: 1rem;
-  padding-right: 1rem;
+  padding: 0.5rem 1rem;
 }
 
+.nav .nav-link:hover {
+  color: var(--nav-item-link-hover);
+}
+
+/* Before pseudo-element for nav links */
 .nav .nav-link::before {
   content: "";
   position: absolute;
@@ -190,26 +221,29 @@ h6 {
   left: 0;
   background-color: var(--color-white);
   width: 0;
-  height: 0.2rem;
+  height: 0.2rem; /* 20% of 1rem root = 0.2rem */
+  transition:
+    width 0.3s ease,
+    background-color 0.3s ease;
 }
 
+/* Expand the before element on hover */
 .nav .nav-item:hover .nav-link::before {
   background-color: var(--color-primary);
   width: 100%;
 }
 
-.nav .nav-link:hover {
-  color: var(--nav-item-link-hover);
-}
-
-.section-tagline {
-  margin: var(--section-tagline-margin);
-}
-
+/* Grid */
 ul.row {
   margin: 0;
   padding: 0;
   list-style: none;
+}
+
+/* Common col- styles */
+[class^="col-"] {
+  float: left;
+  padding: 0.5rem;
 }
 
 .col-1-3 {
@@ -220,32 +254,11 @@ ul.row {
   width: 50%;
 }
 
-.footer-copyright {
-  margin: 0;
-  font-size: var(--font-size-small);
-  color: var(--text-color);
-}
-
-.footer ul {
-  text-align: right;
-}
-
+/* Clearfix */
 .row::after {
   content: "";
   display: table;
   clear: both;
-}
-
-[class^="col-"] {
-  float: left;
-  padding: 0.5rem;
-}
-
-[data-section-theme="dark"] {
-  --text-color: var(--color-white);
-  --section-title-color: var(--color-white);
-  --button-color: var(--color-white);
-  background: var(--color-black);
 }
 
 .footer-address {
@@ -256,7 +269,7 @@ ul.row {
   display: block;
 }
 
-.social-link>svg {
+.social-link > svg {
   fill: var(--text-color);
 }
 
@@ -268,6 +281,7 @@ ul.row {
   display: block;
   padding: 2rem;
   background-color: var(--color-light-grey);
+  text-decoration: none;
 }
 
 .card-services a:hover {
@@ -288,7 +302,11 @@ ul.row {
 .button:hover {
   color: var(--button-hover-color);
   text-decoration: var(--button-hover-text-decoration);
-  background: var(--button-hover-background);
+  background-color: var(--button-hover-background);
+}
+
+[data-section-theme="dark"] {
+  --button-color: var(--color-white);
 }
 
 .card-testimonial {
@@ -319,6 +337,7 @@ ul.row {
   padding: 10rem 40rem 2rem 0;
 }
 
+/* Header styling */
 .header {
   padding: var(--header-padding);
 }
@@ -334,11 +353,13 @@ ul.row {
   left: var(--header-logo-link-left);
 }
 
+/* Outer container for work cards */
 .card-work .card-outer {
   position: relative;
   overflow: hidden;
 }
 
+/* Image inside the work card */
 .card-work .card-image img {
   height: 30rem;
   width: 100%;
@@ -346,18 +367,22 @@ ul.row {
   vertical-align: bottom;
 }
 
+/* Inner content overlay */
 .card-work .card-inner {
   position: absolute;
   top: -0.1rem;
   left: -0.1rem;
   right: -0.1rem;
   z-index: 1;
+  transition: background-color 0.3s ease;
 }
 
+/* Inner content background on hover */
 .card-work:hover .card-inner {
   background-color: rgba(0, 0, 0, 0.7);
 }
 
+/* Title inside work card */
 .card-work .card-title {
   text-align: center;
   margin: 0;
@@ -366,21 +391,25 @@ ul.row {
   position: relative;
 }
 
+/* Link inside the title */
 .card-work .card-title a {
   display: block;
   text-decoration: none;
   padding-top: 45%;
+  position: relative;
 }
 
+/* After pseudo-element for link overlay */
 .card-work .card-title a::after {
+  content: "";
   position: absolute;
   top: 0;
+  left: 0;
   right: 0;
   bottom: 0;
-  left: 0;
-  content: "";
 }
 
+/* Show title overlay on hover */
 .card-work:hover .card-title {
   opacity: 1;
 }
@@ -390,7 +419,7 @@ ul.row {
 }
 
 .card-testimonial .card-quote::before {
-  content: "\210C";
+  content: "\201C"; /* Left double quotation mark */
   position: absolute;
   top: -4.5rem;
   left: -1rem;
