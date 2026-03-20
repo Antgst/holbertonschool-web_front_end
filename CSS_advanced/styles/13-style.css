@@ -1,4 +1,4 @@
-/* Task 13 */
+/* 13-style.css */
 
 :root {
   --color-primary: #d73953;
@@ -7,15 +7,15 @@
   --color-light-grey: #f3f3f3;
   --color-dark-grey: #353535;
   --text-color: var(--color-black);
-  --font-family-base: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  --font-family-title: Raleway, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --font-family-base:
+    "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --font-family-title:
+    "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
   --font-size-small: 1.2rem;
   --font-size-medium: 1.6rem;
   --font-size-large: 1.8rem;
   --font-size-x-large: 2.3rem;
   --font-size-xx-large: 4.8rem;
-  --html-font-size: 62.5%;
-  --body-font-size: var(--font-size-medium);
   --font-weight-regular: 400;
   --font-weight-bold: 700;
   --line-height-small: 1.2;
@@ -29,32 +29,33 @@
 
 html {
   scroll-behavior: smooth;
-  font-size: var(--html-font-size);
+  font-size: 62.5%;
 }
 
 body {
   color: var(--text-color);
   font-family: var(--font-family-base);
-  font-size: var(--body-font-size);
+  font-size: var(--font-size-medium);
   font-weight: var(--font-weight-regular);
   line-height: var(--line-height-base);
 }
 
-a[href]{
+/* Links */
+a:link {
   color: var(--text-color);
   text-decoration: none;
 }
 
-a[href]:visited {
-    font-style: italic;
+a:visited {
+  font-style: italic;
 }
 
-a[href]:hover {
-    text-decoration: underline;
+a:hover {
+  text-decoration: underline;
 }
 
-a[href]:active {
-   background-color: var(--color-light-grey);
+a:active {
+  background-color: var(--color-light-grey);
 }
 
 .visually-hidden {
@@ -84,7 +85,12 @@ a[href]:active {
   font-weight: var(--font-weight-bold);
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-family: var(--font-family-title);
   font-weight: var(--font-weight-bold);
 }
