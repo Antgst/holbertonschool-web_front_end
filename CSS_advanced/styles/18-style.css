@@ -1,6 +1,13 @@
-/* Task 18 */
+/* 18-style.css */
 
-@import url(https://intranet.hbtn.io/rltoken/0UITCJASLDBEvDQdP_pwiw);
+/* 0️⃣ Universal box-sizing */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+@import url("https://necolas.github.io/normalize.css/8.0.1/normalize.css");
 
 :root {
   --color-primary: #d73953;
@@ -9,15 +16,15 @@
   --color-light-grey: #f3f3f3;
   --color-dark-grey: #353535;
   --text-color: var(--color-black);
-  --font-family-base: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  --font-family-title: Raleway, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --font-family-base:
+    "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --font-family-title:
+    "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
   --font-size-small: 1.2rem;
   --font-size-medium: 1.6rem;
   --font-size-large: 1.8rem;
   --font-size-x-large: 2.3rem;
   --font-size-xx-large: 4.8rem;
-  --html-font-size: 62.5%;
-  --body-font-size: var(--font-size-medium);
   --font-weight-regular: 400;
   --font-weight-bold: 700;
   --line-height-small: 1.2;
@@ -33,6 +40,8 @@
   --section-footer-padding: 3rem 0 0;
   --section-footer-align: center;
   --footer-padding: 5rem 0 1rem;
+
+  /* 1️⃣ Navbar variables */
   --nav-item-font-family: var(--font-family-title);
   --nav-item-font-weight: var(--font-weight-bold);
   --nav-item-font-size: var(--font-size-medium);
@@ -42,39 +51,33 @@
   --nav-item-link-hover: var(--color-primary);
 }
 
-*,
-*::before,
-*::after {
-  box-sizing: border-box;
-}
-
 html {
   scroll-behavior: smooth;
-  font-size: var(--html-font-size);
+  font-size: 62.5%;
 }
 
 body {
   color: var(--text-color);
   font-family: var(--font-family-base);
-  font-size: var(--body-font-size);
+  font-size: var(--font-size-medium);
   font-weight: var(--font-weight-regular);
   line-height: var(--line-height-base);
 }
 
-a[href] {
+a:link {
   color: var(--text-color);
   text-decoration: none;
 }
 
-a[href]:visited {
+a:visited {
   font-style: italic;
 }
 
-a[href]:hover {
+a:hover {
   text-decoration: underline;
 }
 
-a[href]:active {
+a:active {
   background-color: var(--color-light-grey);
 }
 
@@ -125,15 +128,22 @@ a[href]:active {
   margin-right: auto;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-family: var(--font-family-title);
   font-weight: var(--font-weight-bold);
 }
 
+/* 2️⃣ Footer padding */
 .footer {
   padding: var(--footer-padding);
 }
 
+/* 3️⃣ Navbar styling */
 .navbar-menu {
   float: right;
 }
@@ -147,7 +157,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .nav .nav-item {
   font-family: var(--nav-item-font-family);
-  font-style: var(--nav-item-font-weight);
+  font-weight: var(--nav-item-font-weight);
   font-size: var(--nav-item-font-size);
   letter-spacing: var(--nav-item-letter-spacing);
   display: var(--nav-item-display);
@@ -156,10 +166,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .nav .nav-link {
   display: block;
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
-  padding-left: 1rem;
-  padding-right: 1rem;
+  padding: 0.5rem 1rem;
 }
 
 .nav .nav-link:hover {
