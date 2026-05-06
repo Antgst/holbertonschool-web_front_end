@@ -1,6 +1,6 @@
-# ðŸ“˜ Advanced HTML
+# 📘 Advanced HTML
 
-## ðŸ“Œ Description
+## 📌 Description
 
 # Welcome!
 
@@ -14,7 +14,7 @@ Important note: **details are important!** lowercase vs uppercase / wrong letter
 
 ---
 
-## ðŸ“š Resources
+## 📚 Resources
 
 **Read or watch**:
 
@@ -32,7 +32,7 @@ Important note: **details are important!** lowercase vs uppercase / wrong letter
 
 ---
 
-## ðŸŽ¯ Learning Objectives
+## 🎯 Learning Objectives
 
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
@@ -66,7 +66,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ---
 
-## âœ… Requirements
+## ✅ Requirements
 
 - A `README.md` file at the root of the folder of the project is mandatory
 
@@ -76,13 +76,13 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ---
 
-## âš™ï¸ Setup
+## ⚙️ Setup
 
 _No specific setup detected._
 
 ---
 
-## ðŸ§  Quiz
+## 🧠 Quiz
 
 <details>
 <summary>Question #0</summary>
@@ -277,7 +277,7 @@ _To be reviewed and completed manually if needed._
 
 ---
 
-## ðŸ§© Tasks
+## 🧩 Tasks
 
 <details>
 <summary>0. Create your first webpage</summary>
@@ -327,12 +327,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 0. Create your first webpage
 Commit used:
 User:
@@ -347,9 +347,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "0. Create your first webpage"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -403,12 +403,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 1. Structure your webpage
 Commit used:
 User:
@@ -423,9 +423,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "1. Structure your webpage"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -562,12 +562,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 2. The head - meta charset, viewport, title, description, favicons
 Commit used:
 User:
@@ -582,9 +582,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "2. The head - meta charset, viewport, title, description, favicons"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -660,12 +660,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 3. Simple header, main, footer
 Commit used:
 User:
@@ -680,9 +680,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "3. Simple header, main, footer"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -737,12 +737,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 4. Aside
 Commit used:
 User:
@@ -757,9 +757,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "4. Aside"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -832,12 +832,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 5. Section
 Commit used:
 User:
@@ -852,9 +852,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "5. Section"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -913,7 +913,7 @@ article
 write
 Testimonial #
 where the hashtag will be the ordered number (1, 2, or 3)
-W3C wonâ€™t pass - you can ignore it
+W3C won’t pass - you can ignore it
 Repo:
 GitHub repository:
 holbertonschool-web_front_end
@@ -933,12 +933,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 6. Work, News, Testimonial articles
 Commit used:
 User:
@@ -953,9 +953,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "6. Work, News, Testimonial articles"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1011,12 +1011,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 7. Navigation
 Commit used:
 User:
@@ -1031,9 +1031,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "7. Navigation"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1085,12 +1085,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 8. Level 1 headings
 Commit used:
 User:
@@ -1105,9 +1105,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "8. Level 1 headings"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1175,7 +1175,7 @@ tag with the the text
 Contact section
 , remove the text and create a level 2 heading with text
 Contact
-W3C wonâ€™t pass - you can ignore it
+W3C won’t pass - you can ignore it
 Repo:
 GitHub repository:
 holbertonschool-web_front_end
@@ -1195,12 +1195,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 9. Level 2 headings
 Commit used:
 User:
@@ -1215,9 +1215,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "9. Level 2 headings"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1333,12 +1333,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 10. Level 3 headings
 Commit used:
 User:
@@ -1353,9 +1353,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "10. Level 3 headings"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1436,12 +1436,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 11. styleguide
 Commit used:
 User:
@@ -1456,9 +1456,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "11. styleguide"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1575,12 +1575,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 12. Paragraphs
 Commit used:
 User:
@@ -1595,9 +1595,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "12. Paragraphs"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1660,12 +1660,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 13. styleguide paragraphs
 Commit used:
 User:
@@ -1680,9 +1680,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "13. styleguide paragraphs"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1737,12 +1737,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 14. Span
 Commit used:
 User:
@@ -1757,9 +1757,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "14. Span"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1817,12 +1817,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 15. Div
 Commit used:
 User:
@@ -1837,9 +1837,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "15. Div"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1973,12 +1973,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 16. Structure your sections
 Commit used:
 User:
@@ -1993,9 +1993,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "16. Structure your sections"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2084,12 +2084,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 17. Comments
 Commit used:
 User:
@@ -2104,9 +2104,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "17. Comments"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2161,12 +2161,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 18. link your logo
 Commit used:
 User:
@@ -2181,9 +2181,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "18. link your logo"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2253,12 +2253,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 19. Create new pages
 Commit used:
 User:
@@ -2273,9 +2273,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "19. Create new pages"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2353,12 +2353,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 20. Add links
 Commit used:
 User:
@@ -2373,9 +2373,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "20. Add links"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2418,7 +2418,7 @@ create a link to
 https://www.instagram.com/holbertonschool/
 with the text
 Instagram
-W3C wonâ€™t pass - you can ignore it
+W3C won’t pass - you can ignore it
 Repo:
 GitHub repository:
 holbertonschool-web_front_end
@@ -2438,12 +2438,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 21. Add social media links
 Commit used:
 User:
@@ -2458,9 +2458,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "21. Add social media links"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2531,12 +2531,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 22. "Button" links
 Commit used:
 User:
@@ -2551,9 +2551,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "22. "Button" links"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2614,12 +2614,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 23. Services, Works, Latest news links
 Commit used:
 User:
@@ -2634,9 +2634,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "23. Services, Works, Latest news links"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2664,12 +2664,12 @@ into
 24-index.html
 in the
 nav
-create an unordered list, put each anchor tag (Home, Services, Works, â€¦) as an individual list item
+create an unordered list, put each anchor tag (Home, Services, Works, …) as an individual list item
 in the
 div
 in the
 footer
-create an unordered list and put each anchor tag (Facebook, Twitter, â€¦) as an individual list item
+create an unordered list and put each anchor tag (Facebook, Twitter, …) as an individual list item
 W3C does not need to pass
 Repo:
 GitHub repository:
@@ -2690,12 +2690,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 24. List the links
 Commit used:
 User:
@@ -2710,9 +2710,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "24. List the links"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2778,12 +2778,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 25. Secondary navigation menu
 Commit used:
 User:
@@ -2798,9 +2798,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "25. Secondary navigation menu"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2900,12 +2900,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 26. Examples of lists for the styleguide
 Commit used:
 User:
@@ -2920,9 +2920,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "26. Examples of lists for the styleguide"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2955,7 +2955,7 @@ div
 s:
 add a horizontal rule
 after the horizontal rule add a paragraph with text
-Â© 2020 Techium, made with â™¥ by students at Holberton School.
+© 2020 Techium, made with ♥ by students at Holberton School.
 W3C does not need to pass.
 Repo:
 GitHub repository:
@@ -2976,12 +2976,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 27. Separate content
 Commit used:
 User:
@@ -2996,9 +2996,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "27. Separate content"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -3060,12 +3060,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 28. Horizontal rule example
 Commit used:
 User:
@@ -3080,9 +3080,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "28. Horizontal rule example"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -3148,12 +3148,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 29. Client quotes
 Commit used:
 User:
@@ -3168,9 +3168,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "29. Client quotes"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -3233,7 +3233,7 @@ div
 add a level 3 heading with the text
 Blockquote
 add a multiline quote with the text
-I will be the leader of a company that ends up being worth billions of dollars, because I got the answers. I understand culture. I am the nucleus. I think thatâ€™s a responsibility that I have, to push possibilities, to show people, this is the level that things could be at.
+I will be the leader of a company that ends up being worth billions of dollars, because I got the answers. I understand culture. I am the nucleus. I think that’s a responsibility that I have, to push possibilities, to show people, this is the level that things could be at.
 and cite
 Kanye West, Musician
 Repo:
@@ -3255,12 +3255,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 30. Examples of quotes
 Commit used:
 User:
@@ -3275,9 +3275,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "30. Examples of quotes"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -3345,12 +3345,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 31. Address and latest news authors
 Commit used:
 User:
@@ -3365,9 +3365,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "31. Address and latest news authors"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -3460,12 +3460,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 32. Typography section - using the correct tags
 Commit used:
 User:
@@ -3480,9 +3480,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "32. Typography section - using the correct tags"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -3563,12 +3563,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 33. Table
 Commit used:
 User:
@@ -3583,9 +3583,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "33. Table"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -3673,12 +3673,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 34. Details
 Commit used:
 User:
@@ -3693,9 +3693,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "34. Details"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -3762,12 +3762,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 35. Replace text logo with image logo
 Commit used:
 User:
@@ -3782,9 +3782,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "35. Replace text logo with image logo"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -3944,12 +3944,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 36. Add images to your sections
 Commit used:
 User:
@@ -3964,9 +3964,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "36. Add images to your sections"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -4111,12 +4111,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 37. Social icons
 Commit used:
 User:
@@ -4131,9 +4131,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "37. Social icons"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -4206,12 +4206,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 38. Add a video player in the styleguide
 Commit used:
 User:
@@ -4226,9 +4226,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "38. Add a video player in the styleguide"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -4297,12 +4297,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 39. Add an audio player in the styleguide
 Commit used:
 User:
@@ -4317,9 +4317,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "39. Add an audio player in the styleguide"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -4400,12 +4400,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 40. Add a iframe example in the styleguide
 Commit used:
 User:
@@ -4420,9 +4420,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "40. Add a iframe example in the styleguide"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -4432,13 +4432,13 @@ Loading...
 
 ---
 
-## ðŸ§ª Testing
+## 🧪 Testing
 
 Use the provided task examples and Holberton checker to validate the project.
 
 ---
 
-## ðŸ‘¤ Author
+## 👤 Author
 
 Project from Holberton School.
 

@@ -1,12 +1,12 @@
-# ðŸ“˜ Advanced CSS
+# 📘 Advanced CSS
 
-## ðŸ“Œ Description
+## 📌 Description
 
 _No description detected._
 
 ---
 
-## ðŸ“š Resources
+## 📚 Resources
 
 **Read or watch**
 
@@ -30,7 +30,7 @@ _No description detected._
 
 ---
 
-## ðŸŽ¯ Learning Objectives
+## 🎯 Learning Objectives
 
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
 
@@ -62,7 +62,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ---
 
-## âœ… Requirements
+## ✅ Requirements
 
 ### General
 
@@ -804,7 +804,7 @@ Use the following starter HTML file for your project.
 
           <div class="col-1-2">
 
-            <p class="footer-copyright">Â© 2020 Techium, made with â™¥ by students at Holberton School.</p>
+            <p class="footer-copyright">© 2020 Techium, made with ♥ by students at Holberton School.</p>
 
           </div>
 
@@ -852,13 +852,13 @@ You can save it in a `index.html` file and replace the `<link rel='stylesheet' h
 
 ---
 
-## âš™ï¸ Setup
+## ⚙️ Setup
 
 _No specific setup detected._
 
 ---
 
-## ðŸ§  Quiz
+## 🧠 Quiz
 
 <details>
 <summary>Question #0</summary>
@@ -1287,7 +1287,7 @@ _To be reviewed and completed manually if needed._
 
 ---
 
-## ðŸ§© Tasks
+## 🧩 Tasks
 
 <details>
 <summary>0. Let's get some images!</summary>
@@ -1343,12 +1343,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 0. Let's get some images!
 Commit used:
 User:
@@ -1363,9 +1363,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "0. Let's get some images!"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1409,12 +1409,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 1. Effortless transitions when scrolling
 Commit used:
 User:
@@ -1429,9 +1429,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "1. Effortless transitions when scrolling"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1493,12 +1493,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 2. Do you know your color values?
 Commit used:
 User:
@@ -1513,9 +1513,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "2. Do you know your color values?"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1591,12 +1591,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 3. Reuse and repeat. A programmer's life should be simple with variables
 Commit used:
 User:
@@ -1611,9 +1611,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "3. Reuse and repeat. A programmer's life should be simple with variables"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1680,12 +1680,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 4. Variables for storing certain font types
 Commit used:
 User:
@@ -1700,9 +1700,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "4. Variables for storing certain font types"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1774,12 +1774,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 5. Variables for the font size
 Commit used:
 User:
@@ -1794,9 +1794,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "5. Variables for the font size"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1855,12 +1855,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 6. Variables for the font-weight
 Commit used:
 User:
@@ -1875,9 +1875,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "6. Variables for the font-weight"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -1932,12 +1932,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 7. Integrating Google Fonts into the CSS file
 Commit used:
 User:
@@ -1952,9 +1952,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "7. Integrating Google Fonts into the CSS file"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2015,12 +2015,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 8. Defining line heights
 Commit used:
 User:
@@ -2035,9 +2035,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "8. Defining line heights"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2082,12 +2082,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 9. Links are decorated by default, time to remove them
 Commit used:
 User:
@@ -2102,9 +2102,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "9. Links are decorated by default, time to remove them"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2159,12 +2159,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 10. Centering the section titles
 Commit used:
 User:
@@ -2179,9 +2179,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "10. Centering the section titles"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2240,12 +2240,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 11. Add more styles to the section tagline
 Commit used:
 User:
@@ -2260,9 +2260,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "11. Add more styles to the section tagline"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2330,12 +2330,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 12. Adding more styling to the section title
 Commit used:
 User:
@@ -2350,9 +2350,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "12. Adding more styling to the section title"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2405,12 +2405,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 13. Pseudo Classes
 Commit used:
 User:
@@ -2425,9 +2425,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "13. Pseudo Classes"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2477,12 +2477,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 14. Resetting the CSS stylesheet for browser consistency
 Commit used:
 User:
@@ -2497,9 +2497,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "14. Resetting the CSS stylesheet for browser consistency"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2547,12 +2547,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 15. Add universal box-sizing
 Commit used:
 User:
@@ -2567,9 +2567,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "15. Add universal box-sizing"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2623,12 +2623,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 16. Styling the container
 Commit used:
 User:
@@ -2643,9 +2643,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "16. Styling the container"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2737,12 +2737,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 17. Adding padding to sections
 Commit used:
 User:
@@ -2757,9 +2757,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "17. Adding padding to sections"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2869,12 +2869,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 18. Customizing the navbar
 Commit used:
 User:
@@ -2889,9 +2889,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "18. Customizing the navbar"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -2977,12 +2977,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 19. Grid styling and custom variables
 Commit used:
 User:
@@ -2997,9 +2997,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "19. Grid styling and custom variables"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -3050,12 +3050,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 20. Clear the context of the grid
 Commit used:
 User:
@@ -3070,9 +3070,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "20. Clear the context of the grid"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -3127,12 +3127,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 21. Simplify the col- selector
 Commit used:
 User:
@@ -3147,9 +3147,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "21. Simplify the col- selector"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -3205,12 +3205,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 22. Add a dark theme to sections
 Commit used:
 User:
@@ -3225,9 +3225,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "22. Add a dark theme to sections"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -3290,12 +3290,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 23. Fix issues for dark theme
 Commit used:
 User:
@@ -3310,9 +3310,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "23. Fix issues for dark theme"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -3378,12 +3378,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 24.  Add background and hover state to services
 Commit used:
 User:
@@ -3398,9 +3398,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "24.  Add background and hover state to services"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -3510,12 +3510,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 25. Add border to the button
 Commit used:
 User:
@@ -3530,9 +3530,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "25. Add border to the button"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -3596,12 +3596,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 26. Add border radius to images
 Commit used:
 User:
@@ -3616,9 +3616,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "26. Add border radius to images"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -3679,12 +3679,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 27. Styling the section hero
 Commit used:
 User:
@@ -3699,9 +3699,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "27. Styling the section hero "
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -3791,12 +3791,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 28. Fixing the header and menu navigation bar
 Commit used:
 User:
@@ -3811,9 +3811,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "28. Fixing the header and menu navigation bar"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -3887,12 +3887,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 29. Styling and custom properties for the nav
 Commit used:
 User:
@@ -3907,9 +3907,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "29. Styling and custom properties for the nav"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -4029,12 +4029,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 30. Fix the works section
 Commit used:
 User:
@@ -4049,9 +4049,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "30. Fix the works section"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -4111,12 +4111,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 31. Add quotes decoration on testimonials
 Commit used:
 User:
@@ -4131,9 +4131,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "31. Add quotes decoration on testimonials"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -4222,12 +4222,12 @@ Connect GitHub
 Connect as:
 Disconnect
 Repository
-Select a repositoryâ€¦
+Select a repository…
 Folder (optional)
 Run the correction
 Get a sandbox
 QA Review
-Ã—
+×
 32. Incorporating transitions
 Commit used:
 User:
@@ -4242,9 +4242,9 @@ Subject:
 ---
 Date:
 ---
-Ã—
+×
 Students who are done with "32. Incorporating transitions"
-Ã—
+×
 Recommended Sandboxes
 Loading...
 ```
@@ -4254,13 +4254,13 @@ Loading...
 
 ---
 
-## ðŸ§ª Testing
+## 🧪 Testing
 
 Use the provided task examples and Holberton checker to validate the project.
 
 ---
 
-## ðŸ‘¤ Author
+## 👤 Author
 
 Project from Holberton School.
 
