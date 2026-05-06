@@ -11,7 +11,6 @@ _No description detected._
 **Read or watch**
 
 
-
 - [CSS Reference - A free visual guide to CSS](https://cssreference.io/)
 
 - [Can I use,,, Support tables for HTML5, CSS3, etc](https://caniuse.com/)
@@ -33,7 +32,6 @@ _No description detected._
 ## 🎯 Learning Objectives
 
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
-
 
 
 - Selectors, properties, and values
@@ -67,7 +65,6 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ### General
 
 
-
 - Allowed editors: `vi`, `vim`, `emacs`, `VSCode`, `Atom`
 
 - All your files will be interpreted on Chrome (version 78.x)
@@ -81,9 +78,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - Your code should be W3C compliant and validate with [W3C-Validator](https://github.com/hs-hq/W3C-Validator)
 
 
-
 ### Files you need for the project
-
 
 
 #### `favicon.jpg`
@@ -91,11 +86,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ![favicon.jpg](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2019/10/2ba3a0d7878316de5aaa.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20260504%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20260504T215029Z&X-Amz-Expires=345600&X-Amz-SignedHeaders=host&X-Amz-Signature=1a53c71567a561999d63222a81ceedfcaa06495ef4a416cdf28fce8e555e5ca4)
 
 
-
 [download favicon.jpg](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2019/10/2ba3a0d7878316de5aaa.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20260504%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20260504T215030Z&X-Amz-Expires=345600&X-Amz-SignedHeaders=host&X-Amz-Signature=9ca4247081373c2bc50790f48a3e00006dacc2791ec81e5c9cf904826f8fe761)
-
-
-
 
 
 #### `logo-black.png`
@@ -103,11 +94,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ![logo-black.png](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2019/10/06f32e89f2a82582234e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20260504%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20260504T215030Z&X-Amz-Expires=345600&X-Amz-SignedHeaders=host&X-Amz-Signature=be3da8f2ed584f38c60531d8f0e4c15a97ce278034a986830ec4be36e8ae374b)
 
 
-
 [download logo-black.png](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2019/10/06f32e89f2a82582234e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20260504%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20260504T215030Z&X-Amz-Expires=345600&X-Amz-SignedHeaders=host&X-Amz-Signature=be3da8f2ed584f38c60531d8f0e4c15a97ce278034a986830ec4be36e8ae374b)
-
-
-
 
 
 #### `logo-white.png`
@@ -115,19 +102,13 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ![logo-white.png](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2019/10/0fa48a04048a2d050cab.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20260504%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20260504T215030Z&X-Amz-Expires=345600&X-Amz-SignedHeaders=host&X-Amz-Signature=4cce47e5df1c7a0f718dd3c8fcfdff1dccfb54cd1466ef10723c07abd6c129f6)
 
 
-
 [download logo-white.png](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2019/10/0fa48a04048a2d050cab.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20260504%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20260504T215030Z&X-Amz-Expires=345600&X-Amz-SignedHeaders=host&X-Amz-Signature=4cce47e5df1c7a0f718dd3c8fcfdff1dccfb54cd1466ef10723c07abd6c129f6)
-
-
-
 
 
 Store all these under a directory named "images"
 
 
-
 Use the following starter HTML file for your project.
-
 
 
 ```
@@ -847,7 +828,6 @@ Use the following starter HTML file for your project.
 ```
 
 
-
 You can save it in a `index.html` file and replace the `<link rel='stylesheet' href='#'>` by the right CSS file.
 
 ---
@@ -1331,43 +1311,12 @@ Directory:
 CSS_advanced
 File:
 images/pic-about-01.jpg, images/pic-work-01.jpg, images/pic-work-02.jpg, images/pic-work-03.jpg, images/pic-article-01.jpg, images/pic-article-02.jpg, images/pic-article-03.jpg, images/pic-person-01.jpg, images/pic-person-02.jpg, images/pic-person-03.jpg
-Score of the task
-1
-/1
-pt
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 0. Let's get some images!
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "0. Let's get some images!"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1397,43 +1346,12 @@ Directory:
 CSS_advanced
 File:
 styles/1-style.css
-Score of the task
-2
-/2
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 1. Effortless transitions when scrolling
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "1. Effortless transitions when scrolling"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1481,43 +1399,12 @@ Directory:
 CSS_advanced
 File:
 styles/2-style.css
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 2. Do you know your color values?
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "2. Do you know your color values?"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1579,43 +1466,12 @@ Directory:
 CSS_advanced
 File:
 styles/3-style.css
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 3. Reuse and repeat. A programmer's life should be simple with variables
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "3. Reuse and repeat. A programmer's life should be simple with variables"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1668,43 +1524,12 @@ Directory:
 CSS_advanced
 File:
 styles/4-style.css
-Score of the task
-7
-/7
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 4. Variables for storing certain font types
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "4. Variables for storing certain font types"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1762,43 +1587,12 @@ Directory:
 CSS_advanced
 File:
 styles/5-style.css
-Score of the task
-8
-/8
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 5. Variables for the font size
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "5. Variables for the font size"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1843,43 +1637,12 @@ Directory:
 CSS_advanced
 File:
 styles/6-style.css
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 6. Variables for the font-weight
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "6. Variables for the font-weight"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1920,43 +1683,12 @@ Directory:
 CSS_advanced
 File:
 styles/7-style.css
-Score of the task
-7
-/7
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 7. Integrating Google Fonts into the CSS file
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "7. Integrating Google Fonts into the CSS file"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2003,43 +1735,12 @@ Directory:
 CSS_advanced
 File:
 styles/8-style.css
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 8. Defining line heights
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "8. Defining line heights"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2070,43 +1771,12 @@ Directory:
 CSS_advanced
 File:
 styles/9-style.css
-Score of the task
-2
-/2
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 9. Links are decorated by default, time to remove them
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "9. Links are decorated by default, time to remove them"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2147,43 +1817,12 @@ Directory:
 CSS_advanced
 File:
 styles/10-style.css
-Score of the task
-3
-/3
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 10. Centering the section titles
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "10. Centering the section titles"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2228,43 +1867,12 @@ Directory:
 CSS_advanced
 File:
 styles/11-style.css
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 11. Add more styles to the section tagline
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "11. Add more styles to the section tagline"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2318,43 +1926,12 @@ Directory:
 CSS_advanced
 File:
 styles/12-style.css
-Score of the task
-2
-/2
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 12. Adding more styling to the section title
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "12. Adding more styling to the section title"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2393,43 +1970,12 @@ Directory:
 CSS_advanced
 File:
 styles/13-style.css
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 13. Pseudo Classes
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "13. Pseudo Classes"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2465,43 +2011,12 @@ Directory:
 CSS_advanced
 File:
 styles/14-style.css
-Score of the task
-2
-/2
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 14. Resetting the CSS stylesheet for browser consistency
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "14. Resetting the CSS stylesheet for browser consistency"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2535,43 +2050,12 @@ Directory:
 CSS_advanced
 File:
 styles/15-style.css
-Score of the task
-2
-/2
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 15. Add universal box-sizing
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "15. Add universal box-sizing"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2611,43 +2095,12 @@ Directory:
 CSS_advanced
 File:
 styles/16-style.css
-Score of the task
-4
-/4
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 16. Styling the container
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "16. Styling the container"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2725,43 +2178,12 @@ Directory:
 CSS_advanced
 File:
 styles/17-style.css
-Score of the task
-13
-/13
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 17. Adding padding to sections
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "17. Adding padding to sections"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2857,43 +2279,12 @@ Directory:
 CSS_advanced
 File:
 styles/18-style.css
-Score of the task
-22
-/22
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 18. Customizing the navbar
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "18. Customizing the navbar"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2965,43 +2356,12 @@ Directory:
 CSS_advanced
 File:
 styles/19-style.css
-Score of the task
-16
-/16
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 19. Grid styling and custom variables
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "19. Grid styling and custom variables"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -3038,43 +2398,12 @@ Directory:
 CSS_advanced
 File:
 styles/20-style.css
-Score of the task
-4
-/4
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 20. Clear the context of the grid
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "20. Clear the context of the grid"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -3115,43 +2444,12 @@ Directory:
 CSS_advanced
 File:
 styles/21-style.css
-Score of the task
-4
-/4
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 21. Simplify the col- selector
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "21. Simplify the col- selector"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -3193,43 +2491,12 @@ Directory:
 CSS_advanced
 File:
 styles/22-style.css
-Score of the task
-4
-/4
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 22. Add a dark theme to sections
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "22. Add a dark theme to sections"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -3278,43 +2545,12 @@ Directory:
 CSS_advanced
 File:
 styles/23-style.css
-Score of the task
-4
-/4
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 23. Fix issues for dark theme
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "23. Fix issues for dark theme"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -3366,43 +2602,12 @@ Directory:
 CSS_advanced
 File:
 styles/24-style.css
-Score of the task
-8
-/8
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 24.  Add background and hover state to services
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "24.  Add background and hover state to services"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -3498,43 +2703,12 @@ Directory:
 CSS_advanced
 File:
 styles/25-style.css
-Score of the task
-20
-/20
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 25. Add border to the button
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "25. Add border to the button"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -3584,43 +2758,12 @@ Directory:
 CSS_advanced
 File:
 styles/26-style.css
-Score of the task
-8
-/8
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 26. Add border radius to images
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "26. Add border radius to images"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -3667,43 +2810,12 @@ Directory:
 CSS_advanced
 File:
 styles/27-style.css
-Score of the task
-4
-/4
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 27. Styling the section hero
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "27. Styling the section hero "
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -3779,43 +2891,12 @@ Directory:
 CSS_advanced
 File:
 styles/28-style.css
-Score of the task
-13
-/13
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 28. Fixing the header and menu navigation bar
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "28. Fixing the header and menu navigation bar"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -3875,43 +2956,12 @@ Directory:
 CSS_advanced
 File:
 styles/29-style.css
-Score of the task
-11
-/11
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 29. Styling and custom properties for the nav
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "29. Styling and custom properties for the nav"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -4017,43 +3067,12 @@ Directory:
 CSS_advanced
 File:
 styles/30-style.css
-Score of the task
-28
-/28
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 30. Fix the works section
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "30. Fix the works section"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -4099,43 +3118,12 @@ Directory:
 CSS_advanced
 File:
 styles/31-style.css
-Score of the task
-9
-/9
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 31. Add quotes decoration on testimonials
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "31. Add quotes decoration on testimonials"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -4210,43 +3198,12 @@ Directory:
 CSS_advanced
 File:
 styles/32-style.css
-Score of the task
-10
-/10
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 32. Incorporating transitions
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "32. Incorporating transitions"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>

@@ -9,7 +9,6 @@ In this project, you will learn how to use HTML tags to structure a web page.
 No CSS, no styling - don't worry, the final page will be "ugly" it's normal, it's not the purpose of this project.
 
 
-
 Important note: **details are important!** lowercase vs uppercase / wrong letter... be careful!
 
 ---
@@ -17,7 +16,6 @@ Important note: **details are important!** lowercase vs uppercase / wrong letter
 ## 📚 Resources
 
 **Read or watch**:
-
 
 
 - [HTML 5.2](https://html.spec.whatwg.org/multipage/)
@@ -35,7 +33,6 @@ Important note: **details are important!** lowercase vs uppercase / wrong letter
 ## 🎯 Learning Objectives
 
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), __without the help of Google__:
-
 
 
 - Which guidelines to follow for HTML
@@ -315,43 +312,12 @@ Directory:
 html_advanced
 File:
 0-index.html
-Score of the task
-3
-/3
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 0. Create your first webpage
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "0. Create your first webpage"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -391,43 +357,12 @@ Directory:
 html_advanced
 File:
 1-index.html
-Score of the task
-3
-/3
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 1. Structure your webpage
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "1. Structure your webpage"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -550,43 +485,12 @@ Directory:
 html_advanced
 File:
 2-index.html
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 2. The head - meta charset, viewport, title, description, favicons
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "2. The head - meta charset, viewport, title, description, favicons"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -648,43 +552,12 @@ Directory:
 html_advanced
 File:
 3-index.html
-Score of the task
-4
-/4
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 3. Simple header, main, footer
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "3. Simple header, main, footer"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -725,43 +598,12 @@ Directory:
 html_advanced
 File:
 article.html
-Score of the task
-3
-/3
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 4. Aside
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "4. Aside"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -820,43 +662,12 @@ Directory:
 html_advanced
 File:
 5-index.html
-Score of the task
-7
-/7
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 5. Section
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "5. Section"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -921,43 +732,12 @@ Directory:
 html_advanced
 File:
 6-index.html
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 6. Work, News, Testimonial articles
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "6. Work, News, Testimonial articles"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -999,43 +779,12 @@ Directory:
 html_advanced
 File:
 7-index.html
-Score of the task
-1
-/1
-pt
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 7. Navigation
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "7. Navigation"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1073,43 +822,12 @@ Directory:
 html_advanced
 File:
 8-index.html
-Score of the task
-2
-/2
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 8. Level 1 headings
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "8. Level 1 headings"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1183,43 +901,12 @@ Directory:
 html_advanced
 File:
 9-index.html
-Score of the task
-7
-/7
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 9. Level 2 headings
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "9. Level 2 headings"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1321,43 +1008,12 @@ Directory:
 html_advanced
 File:
 10-index.html
-Score of the task
-8
-/8
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 10. Level 3 headings
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "10. Level 3 headings"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1424,43 +1080,12 @@ Directory:
 html_advanced
 File:
 11-styleguide.html
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 11. styleguide
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "11. styleguide"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1563,43 +1188,12 @@ Directory:
 html_advanced
 File:
 12-index.html
-Score of the task
-4
-/4
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 12. Paragraphs
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "12. Paragraphs"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1648,43 +1242,12 @@ Directory:
 html_advanced
 File:
 13-styleguide.html
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 13. styleguide paragraphs
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "13. styleguide paragraphs"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1725,43 +1288,12 @@ Directory:
 html_advanced
 File:
 14-index.html
-Score of the task
-1
-/1
-pt
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 14. Span
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "14. Span"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1805,43 +1337,12 @@ Directory:
 html_advanced
 File:
 15-index.html
-Score of the task
-9
-/9
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 15. Div
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "15. Div"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -1961,43 +1462,12 @@ Directory:
 html_advanced
 File:
 16-index.html
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 16. Structure your sections
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "16. Structure your sections"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2072,43 +1542,12 @@ Directory:
 html_advanced
 File:
 17-index.html
-Score of the task
-10
-/10
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 17. Comments
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "17. Comments"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2149,43 +1588,12 @@ Directory:
 html_advanced
 File:
 18-index.html
-Score of the task
-2
-/2
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 18. link your logo
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "18. link your logo"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2241,43 +1649,12 @@ Directory:
 html_advanced
 File:
 about.html, latest_news.html, contact.html
-Score of the task
-3
-/3
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 19. Create new pages
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "19. Create new pages"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2341,43 +1718,12 @@ Directory:
 html_advanced
 File:
 20-index.html
-Score of the task
-8
-/8
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 20. Add links
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "20. Add links"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2426,43 +1772,12 @@ Directory:
 html_advanced
 File:
 21-index.html
-Score of the task
-2
-/2
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 21. Add social media links
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "21. Add social media links"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2519,43 +1834,12 @@ Directory:
 html_advanced
 File:
 22-index.html
-Score of the task
-3
-/3
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 22. "Button" links
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "22. "Button" links"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2602,43 +1886,12 @@ Directory:
 html_advanced
 File:
 23-index.html
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 23. Services, Works, Latest news links
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "23. Services, Works, Latest news links"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2678,43 +1931,12 @@ Directory:
 html_advanced
 File:
 24-index.html
-Score of the task
-2
-/2
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 24. List the links
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "24. List the links"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2766,43 +1988,12 @@ Directory:
 html_advanced
 File:
 25-index.html
-Score of the task
-3
-/3
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 25. Secondary navigation menu
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "25. Secondary navigation menu"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2888,43 +2079,12 @@ Directory:
 html_advanced
 File:
 26-styleguide.html
-Score of the task
-13
-/13
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 26. Examples of lists for the styleguide
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "26. Examples of lists for the styleguide"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -2964,43 +2124,12 @@ Directory:
 html_advanced
 File:
 27-index.html
-Score of the task
-2
-/2
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 27. Separate content
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "27. Separate content"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -3048,43 +2177,12 @@ Directory:
 html_advanced
 File:
 28-styleguide.html
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 28. Horizontal rule example
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "28. Horizontal rule example"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -3136,43 +2234,12 @@ Directory:
 html_advanced
 File:
 29-index.html
-Score of the task
-2
-/2
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 29. Client quotes
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "29. Client quotes"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -3243,43 +2310,12 @@ Directory:
 html_advanced
 File:
 30-styleguide.html
-Score of the task
-8
-/8
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 30. Examples of quotes
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "30. Examples of quotes"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -3333,43 +2369,12 @@ Directory:
 html_advanced
 File:
 31-index.html
-Score of the task
-2
-/2
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 31. Address and latest news authors
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "31. Address and latest news authors"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -3448,43 +2453,12 @@ Directory:
 html_advanced
 File:
 32-styleguide.html
-Score of the task
-7
-/7
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 32. Typography section - using the correct tags
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "32. Typography section - using the correct tags"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -3551,43 +2525,12 @@ Directory:
 html_advanced
 File:
 33-styleguide.html
-Score of the task
-5
-/5
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 33. Table
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "33. Table"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -3661,43 +2604,12 @@ Directory:
 html_advanced
 File:
 34-styleguide.html
-Score of the task
-10
-/10
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 34. Details
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "34. Details"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -3750,43 +2662,12 @@ Directory:
 html_advanced
 File:
 35-index.html
-Score of the task
-4
-/4
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 35. Replace text logo with image logo
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "35. Replace text logo with image logo"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -3932,43 +2813,12 @@ Directory:
 html_advanced
 File:
 36-index.html
-Score of the task
-8
-/8
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 36. Add images to your sections
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "36. Add images to your sections"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -4099,43 +2949,12 @@ Directory:
 html_advanced
 File:
 index.html
-Score of the task
-2
-/2
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 37. Social icons
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "37. Social icons"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -4194,43 +3013,12 @@ Directory:
 html_advanced
 File:
 38-styleguide.html
-Score of the task
-8
-/8
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 38. Add a video player in the styleguide
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "38. Add a video player in the styleguide"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -4285,43 +3073,12 @@ Directory:
 html_advanced
 File:
 39-styleguide.html
-Score of the task
-6
-/6
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 39. Add an audio player in the styleguide
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "39. Add an audio player in the styleguide"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
@@ -4388,43 +3145,12 @@ Directory:
 html_advanced
 File:
 styleguide.html
-Score of the task
-7
-/7
-pts
-100.0%
-0
-correction requests
-My GitHub
-Connect GitHub
-Connect as:
-Disconnect
-Repository
-Select a repository…
-Folder (optional)
-Run the correction
-Get a sandbox
-QA Review
-×
 40. Add a iframe example in the styleguide
-Commit used:
-User:
 ---
-URL:
-Click here
-ID:
 ---
-Author:
 ---
-Subject:
 ---
-Date:
 ---
-×
-Students who are done with "40. Add a iframe example in the styleguide"
-×
-Recommended Sandboxes
-Loading...
 ```
 
 </details>
